@@ -10,12 +10,12 @@ jQuery(window).load(function() {
 
 $(document).ready(function(){
 	
-/*
+
 	setInterval(function(){ 
 		$('#jequiti').show();
 		$('#jequiti').delay(700).fadeOut("fast");
 	}, 8000);
-*/
+
 
 	
 	
